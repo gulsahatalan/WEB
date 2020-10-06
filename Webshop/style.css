@@ -1,9 +1,10 @@
 main {border-radius: 3px;box-shadow: aqua; background-color: rgb(236, 222, 229);}
 h4 {font-family: Georgia, 'Times New Roman', Times, serif; color: #8F300D;}
 .ortadaki {background-color: chocolate;color: darkblue}
-table {border-radius: 4px }
-.alttaki {background-color: goldenrod}
-.altyazı {color: rgb(132, 2, 137)}
-#anayazı {color: rgb(181, 10, 95)}
-#tap {color:#DB4914 ; background-color: #67EB37}
-img {background: transparent;}
+table {border-radius: 4px ;align: center; }
+.alttaki {background-color: rgb(142, 135, 119)}
+.altyazı {color: rgb(13, 9, 68); background-color: chocolate;border-radius: 70px;font-size: 30px;text-align: center;}
+#anayazı {color: rgb(181, 10, 95); font-family: cursive; font-size: 40px;}
+#tap {color:#DB4914 ; background-color: #67EB37; text-shadow: 2px 2px; text-align: center;border-radius:60px;}
+img { width: 250px; height: 180px }
+#orta-resim {margin: auto;}
